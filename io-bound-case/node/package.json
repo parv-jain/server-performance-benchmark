@@ -1,0 +1,14 @@
+{
+  "name": "io-bound-case-node",
+  "version": "1.0.0",
+  "description": "I/O bound case node implementation for benchmarking",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parv Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
